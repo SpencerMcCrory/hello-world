@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+My name is Spencer, hope you're having a good day!
